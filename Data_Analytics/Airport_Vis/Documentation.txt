@@ -1,0 +1,1 @@
+This was one of the earliest data analysis projects I did. I gained experience with working with large data sets, and creating interactive visualizations. I also experimented with techniques to optimize computational speed.
